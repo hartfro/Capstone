@@ -1,0 +1,1 @@
+BOOL MapPE(unsigned char* PEdata);
